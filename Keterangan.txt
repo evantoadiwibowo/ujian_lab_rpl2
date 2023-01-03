@@ -1,0 +1,18 @@
+Nama	: Evanto Flashino Adiwibowo
+NPM	: 52419084
+Kelas	: 4IA17
+
+Nama proyek/aplikasi: 
+
+Penghitung Bangun Datar dan Ruang
+
+Aplikasi ini dibuat dengan menggunakan bahasa Java dan XML. Aplikasi ini dapat dijalankan
+pada perangkat Android.
+
+Cara pemasangan:
+
+1. Unduh "Penghitung Bangun Datar dan Ruang.apk"
+2. Masukkan ke tempat penyimpanan perangkat Android.
+3. Jalankan setup/installer hingga selesai.
+4. Aplikasi sudah terinstal.
+5. Aplikasi siap dijalankan.
